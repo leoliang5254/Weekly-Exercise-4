@@ -9,6 +9,7 @@ Another primary area that civic technology helps drive smart city outcomes is se
 In conclusion, civic technology plays a crucial role in smart cities, acting as a link between sophisticated digital infrastructure and authentic civic engagement. Smart cities that leverage civic technology simultaneously improve efficiency while enhancing democratic participation and public trust, which makes smart cities a more livable, engaging, and sustainable community.
 
 Resources
+
 Project: Civic Tech. 
 https://civictechlab.org/projects/civic-tech/
 
